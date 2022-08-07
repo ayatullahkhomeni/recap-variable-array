@@ -1,6 +1,6 @@
-/* 
+/*
 loop
------ 
+-----
 1. Display "Ajke amar mon valo nei" for 39 times
 2. Display numbers between 58 to 98
 3. Show all even numbers from 412 to 456
@@ -11,3 +11,5 @@ loop
 8. Run a loop from 30 to 86. This loop will stop if the values get higher than 44
 9. Write the price of the books that you have. Display the prices if the price is lower than 200
 */
+
+// ok
